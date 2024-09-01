@@ -1,8 +1,3 @@
-"""
-# My first app
-Here's our first attempt at using data to create a table:
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -218,7 +213,7 @@ if st.button("Informations clients"):
     
 
 # Lorsque l'utilisateur clique sur "Prédire"
-if st.button("Prédire"):
+if st.button("Simulation"):
     client_data = get_client_data(current_client_id)
     optimal_threshold = np.load('./best_model/optimal_threshold.npy').item()
     
