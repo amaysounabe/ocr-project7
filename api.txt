@@ -1,0 +1,1 @@
+Lien vers l'application Streamlit : https://mayad-ocr-pret-a-depenser.streamlit.app
