@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/b6e5faea101b4c3399ee51765aa78e41/artifacts
+deleted_time: 1724360433204
+end_time: 1724360388042
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: b6e5faea101b4c3399ee51765aa78e41
+run_name: nosy-koi-955
+run_uuid: b6e5faea101b4c3399ee51765aa78e41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724360386801
+status: 3
+tags: []
+user_id: adrien

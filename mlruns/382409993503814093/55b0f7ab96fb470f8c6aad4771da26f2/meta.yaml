@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/55b0f7ab96fb470f8c6aad4771da26f2/artifacts
+deleted_time: 1724399024721
+end_time: null
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: 55b0f7ab96fb470f8c6aad4771da26f2
+run_name: delightful-lark-384
+run_uuid: 55b0f7ab96fb470f8c6aad4771da26f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724397829945
+status: 1
+tags: []
+user_id: adrien

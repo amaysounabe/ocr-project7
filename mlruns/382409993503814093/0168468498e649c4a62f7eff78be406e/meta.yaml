@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/0168468498e649c4a62f7eff78be406e/artifacts
+deleted_time: 1724572323891
+end_time: 1724399256889
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: 0168468498e649c4a62f7eff78be406e
+run_name: polite-dolphin-109
+run_uuid: 0168468498e649c4a62f7eff78be406e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724399067417
+status: 3
+tags: []
+user_id: adrien

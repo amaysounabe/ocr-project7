@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/3b6b487cf7c941edb99940452d7a8a63/artifacts
+deleted_time: 1724572363867
+end_time: 1724418550508
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: deleted
+run_id: 3b6b487cf7c941edb99940452d7a8a63
+run_name: unleashed-eel-268
+run_uuid: 3b6b487cf7c941edb99940452d7a8a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724409422072
+status: 3
+tags: []
+user_id: adrien

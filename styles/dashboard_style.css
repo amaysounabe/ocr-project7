@@ -1,0 +1,112 @@
+/* feuille de styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+    margin-bottom: 50px;
+    border: none;
+    border-color: #000000; /* Couleur de la bordure extérieure */
+}
+
+.custom-table th, .custom-table td {
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: left;
+    color : #ffffff;
+}
+            
+.custom-table th {
+    background-color: #696969;
+    font-family: 'Bree Serif', serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+}
+            
+.custom-table th:first-child {
+    text-align: left;  /* Aligner le titre de la première colonne à gauche */
+}
+            
+.custom-table th:last-child {
+    text-align: right;  /* Aligner le titre de la dernière colonne à droite */
+}
+            
+.custom-table td {
+    text-align: right; /* Alignement du texte à droite pour les valeurs */
+    color: #000000;
+    font-weight: bold;
+    font-family: 'Bree Serif', serif;
+}
+            
+.custom-table td:first-child {
+    text-align: left; /* Alignement à gauche pour la première colonne */
+}
+    
+.custom-table td:last-child {
+    text-align: right; /* Alignement à droite pour la dernière colonne */
+}
+
+.custom-table tr:nth-child(odd) {
+    background-color: #D3D3D3; /* Couleur de fond des lignes impaires en noir */
+}
+
+.custom-table tr:nth-child(even) {
+    background-color: #A9A9A9; /* Couleur de fond des lignes paires en gris foncé */
+}
+
+.custom-table tr:hover {
+    background-color: #aaaaaa;
+}
+
+.table-container {
+    border: none; /* Supprimer la bordure extérieure du conteneur */
+    padding: 0; /* Supprimer le padding pour éviter les bordures supplémentaires */
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.title {
+    font-family: 'Bree Serif', serif;                /* Changer la police */
+    font-weight: bold;
+    font-size: 48px;                   /* Changer la taille de la police */
+    /*color: #f0f0f0;*/                    /* Changer la couleur du texte */
+    text-align: center;                /* Centrer le texte */
+    border: 2px solid #808080;              /* Bordure autour du texte */
+    padding: 15px;                         /* Espacement autour du texte */
+    border-radius: 10px;                   /* Coins arrondis pour la bordure */
+    /*background-color: #1e1e1e;*/            /* Couleur de fond du texte */
+    margin-bottom: 50px;               /* Ajouter un espace en bas */
+}
+        
+.client-id {
+    font-family: 'Bree Serif', serif;
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid #808080;
+    border-radius: 10px;
+    /*background-color: #120D16;*/
+    /*color: #f0f0f0;*/
+}
+        
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Espacement entre les boutons */
+    margin-top: 20px;
+}
+
+
+.styled-image {
+    border-radius: 15px;  /* Arrondir les coins de l'image */       
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}

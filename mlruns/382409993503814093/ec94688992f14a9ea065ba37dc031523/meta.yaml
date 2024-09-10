@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/ec94688992f14a9ea065ba37dc031523/artifacts
+deleted_time: 1724940235356
+end_time: 1724572683027
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: ec94688992f14a9ea065ba37dc031523
+run_name: efficient-mouse-887
+run_uuid: ec94688992f14a9ea065ba37dc031523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724572675346
+status: 3
+tags: []
+user_id: adrien

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/9c1944f0738646519b54a4a7e5d039e8/artifacts
+deleted_time: 1725041187735
+end_time: 1725041178845
+entry_point_name: ''
+experiment_id: '881248795775057967'
+lifecycle_stage: deleted
+run_id: 9c1944f0738646519b54a4a7e5d039e8
+run_name: gentle-turtle-412
+run_uuid: 9c1944f0738646519b54a4a7e5d039e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725040182223
+status: 4
+tags: []
+user_id: adrien

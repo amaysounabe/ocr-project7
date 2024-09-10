@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/890e8f8f28ea4727843b00af81c73c59/artifacts
+deleted_time: 1724360433208
+end_time: 1724360190852
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: 890e8f8f28ea4727843b00af81c73c59
+run_name: adventurous-asp-957
+run_uuid: 890e8f8f28ea4727843b00af81c73c59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724360189592
+status: 3
+tags: []
+user_id: adrien

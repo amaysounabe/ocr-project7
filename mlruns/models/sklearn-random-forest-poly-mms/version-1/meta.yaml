@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725032991653
+current_stage: None
+description: null
+last_updated_timestamp: 1725032991653
+name: sklearn-random-forest-poly-mms
+run_id: 2b34496e21f947bba73bb8495b8cfff9
+run_link: null
+source: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/2b34496e21f947bba73bb8495b8cfff9/artifacts/sklearn-rfc-poly-mms
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/2b34496e21f947bba73bb8495b8cfff9/artifacts/sklearn-rfc-poly-mms
+user_id: null
+version: 1

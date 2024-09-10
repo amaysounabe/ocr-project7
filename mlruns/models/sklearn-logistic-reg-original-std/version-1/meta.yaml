@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1724941087172
+current_stage: None
+description: null
+last_updated_timestamp: 1724941087172
+name: sklearn-logistic-reg-original-std
+run_id: 8d847e17b3d74302b3b9b02a67cd8e7c
+run_link: null
+source: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/8d847e17b3d74302b3b9b02a67cd8e7c/artifacts/sklearn-lr-original-std
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/8d847e17b3d74302b3b9b02a67cd8e7c/artifacts/sklearn-lr-original-std
+user_id: null
+version: 1

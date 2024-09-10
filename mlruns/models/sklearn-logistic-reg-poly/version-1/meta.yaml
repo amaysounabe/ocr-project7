@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1724941641579
+current_stage: None
+description: null
+last_updated_timestamp: 1724941641579
+name: sklearn-logistic-reg-poly
+run_id: f9bd3f1a11fb49499d842a842a32afd9
+run_link: null
+source: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/f9bd3f1a11fb49499d842a842a32afd9/artifacts/sklearn-lr-poly
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/f9bd3f1a11fb49499d842a842a32afd9/artifacts/sklearn-lr-poly
+user_id: null
+version: 1

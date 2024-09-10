@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/8b0255e8c11643689e582987b2824846/artifacts
+end_time: 1724940950567
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: active
+run_id: 8b0255e8c11643689e582987b2824846
+run_name: burly-loon-691
+run_uuid: 8b0255e8c11643689e582987b2824846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724940840321
+status: 3
+tags: []
+user_id: adrien

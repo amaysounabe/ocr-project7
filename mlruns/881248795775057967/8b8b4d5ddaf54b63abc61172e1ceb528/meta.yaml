@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/8b8b4d5ddaf54b63abc61172e1ceb528/artifacts
+deleted_time: 1724940244227
+end_time: 1724578625030
+entry_point_name: ''
+experiment_id: '881248795775057967'
+lifecycle_stage: deleted
+run_id: 8b8b4d5ddaf54b63abc61172e1ceb528
+run_name: stately-owl-640
+run_uuid: 8b8b4d5ddaf54b63abc61172e1ceb528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724578480071
+status: 3
+tags: []
+user_id: adrien

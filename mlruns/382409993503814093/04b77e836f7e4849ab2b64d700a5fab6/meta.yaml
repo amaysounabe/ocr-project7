@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/04b77e836f7e4849ab2b64d700a5fab6/artifacts
+deleted_time: 1724360433204
+end_time: 1724360403714
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: 04b77e836f7e4849ab2b64d700a5fab6
+run_name: bald-cat-208
+run_uuid: 04b77e836f7e4849ab2b64d700a5fab6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724360402169
+status: 3
+tags: []
+user_id: adrien

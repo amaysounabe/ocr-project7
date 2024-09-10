@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/8dad021488ff49f2a4576d5a2483ba9a/artifacts
+end_time: 1724953490379
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: active
+run_id: 8dad021488ff49f2a4576d5a2483ba9a
+run_name: colorful-yak-734
+run_uuid: 8dad021488ff49f2a4576d5a2483ba9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724949052107
+status: 3
+tags: []
+user_id: adrien

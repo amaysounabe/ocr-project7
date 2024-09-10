@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/d14a1bf2864c4af791b2b6ec3adc0a2d/artifacts
+deleted_time: 1724940244224
+end_time: 1724579969554
+entry_point_name: ''
+experiment_id: '881248795775057967'
+lifecycle_stage: deleted
+run_id: d14a1bf2864c4af791b2b6ec3adc0a2d
+run_name: intrigued-dove-985
+run_uuid: d14a1bf2864c4af791b2b6ec3adc0a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724579819443
+status: 3
+tags: []
+user_id: adrien

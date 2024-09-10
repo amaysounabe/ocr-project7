@@ -38,21 +38,14 @@ def score_metier(y_test, y_pred, fp_coeff, fn_coeff):
     - `fn_coeff` (float): Le coefficient de coût associé aux faux négatifs (FN). Cela représente le coût unitaire d'un faux négatif.
 
     ** Retourne : 
-    - `float`: Le score métier normalisé, où 1 représente le meilleur score (aucun coût d'erreur), et 0 représente le pire score (coût maximal d'erreur).
+    - `float`: Le score métier, où 0 représente le meilleur score (aucun coût d'erreur), et 1 représente le pire score (coût maximal d'erreur).
     """
     
     #on sort les résultats de classification binaire
     tp, fp, fn, tn = confusion_matrix(y_test, y_pred).ravel()
     
-    #on calcule les couts
-    real_cost = fp * fp_coeff + fn * fn_coeff
-    max_cost = (fp + fn) * (fp_coeff + fn_coeff)
-
-    #on normalise
-    normalized_cost = real_cost / max_cost
-
-    #on inverse la tendance pour avoir que le score soit meilleur lorsque plus proche de 1
-    score = 1 - normalized_cost
+    #on calcule le score
+    score = (fp * fp_coeff + fn * fn_coeff) / (fp + fn + tp + tn)
 
     return round(score, 3)
 
@@ -448,37 +441,39 @@ def threshold_optimization(y_test, y_proba, thresholds_range):
     """
     
     scores_metier = []
-    scores_accuracy = []
-    scores_sum = []
+    scores_f1 = []
     
     for threshold in thresholds_range:
         y_pred = (y_proba >= threshold).astype(int)
         metier = score_metier(y_test, y_pred, 1, 10)
-        accuracy = accuracy_score(y_test, y_pred)
+        score_f1 = f1_score(y_test, y_pred)
 
-        score_sum = 0.75 * metier + 0.25 * accuracy
         
         scores_metier.append(metier)
-        scores_accuracy.append(accuracy)
-        scores_sum.append(score_sum)
-        
+        scores_f1.append(score_f1)
+
+    max_metier = max(scores_metier)
+    scores_metier_normalized = [x / max_metier for x in scores_metier]
+    scores_metier_normalized_reversed = [1 - score for score in scores_metier_normalized]
+                                
     data_scores = pd.DataFrame({
-        'threshold': thresholds_range.tolist(),
-        'performance_score': scores_metier,
-        'accuracy_score': scores_accuracy,
-        'general_score': scores_sum
+        'threshold': thresholds_range,
+        'performance_score': scores_metier_normalized_reversed,
+        'f1_score': scores_f1
     })
+
+    data_scores['general_score'] = data_scores['performance_score'] + data_scores['f1_score']
 
     data_scores_sorted = data_scores.sort_values(by = 'general_score', ascending = False)
     best_threshold = data_scores_sorted['threshold'].values[0]
 
-    best_acc = data_scores_sorted['accuracy_score'].values[0]
+    best_f1 = data_scores_sorted['f1_score'].values[0]
     best_metier = data_scores_sorted['performance_score'].values[0]
 
     print('-' * 80)
     print(f"Seuil optimal : {best_threshold}")
     print('-' * 21)
-    print(f"Accuracy Score : {round(best_acc, 2)}")
+    print(f"F1 Score : {round(best_f1, 2)}")
     print(f"Score Métier : {round(best_metier, 2)}")
     print('-' * 80)
     
@@ -488,8 +483,8 @@ def threshold_optimization(y_test, y_proba, thresholds_range):
         print('-' * 80)
         plt.figure(figsize=(14,8))
         sns.lineplot(x = data_scores['threshold'], y = data_scores['performance_score'], color = 'blue', label = 'Score métier')
-        sns.lineplot(x = data_scores['threshold'], y = data_scores['accuracy_score'], color = 'green', label = 'Accuracy')
-        plt.title(f"Scores en fonction du seuil", fontweight = 'bold', size = 20, pad = 20)
+        sns.lineplot(x = data_scores['threshold'], y = data_scores['f1_score'], color = 'green', label = 'F1 Score')
+        plt.title(f"\\textbf{{Scores en fonction du seuil}}", size = 20, pad = 20)
         plt.axvline(x = best_threshold, color = 'r', linestyle = '--', label = 'Seuil optimal')
         plt.xlabel('')
         plt.ylabel('')

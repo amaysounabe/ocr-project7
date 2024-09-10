@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1724941768875
+current_stage: None
+description: null
+last_updated_timestamp: 1724941768875
+name: sklearn-logistic-reg-poly-mms
+run_id: c20f12611903467187c4e141dea61c0e
+run_link: null
+source: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/c20f12611903467187c4e141dea61c0e/artifacts/sklearn-lr-poly-mms
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/c20f12611903467187c4e141dea61c0e/artifacts/sklearn-lr-poly-mms
+user_id: null
+version: 1

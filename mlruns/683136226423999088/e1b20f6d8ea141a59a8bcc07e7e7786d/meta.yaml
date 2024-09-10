@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/e1b20f6d8ea141a59a8bcc07e7e7786d/artifacts
+deleted_time: 1724425958570
+end_time: null
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: deleted
+run_id: e1b20f6d8ea141a59a8bcc07e7e7786d
+run_name: angry-rook-317
+run_uuid: e1b20f6d8ea141a59a8bcc07e7e7786d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724424210299
+status: 1
+tags: []
+user_id: adrien

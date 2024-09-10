@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/21832c61079746e0bca319d12e94bf2e/artifacts
+deleted_time: 1724360433206
+end_time: 1724360386797
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: 21832c61079746e0bca319d12e94bf2e
+run_name: efficient-duck-391
+run_uuid: 21832c61079746e0bca319d12e94bf2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724360385571
+status: 3
+tags: []
+user_id: adrien

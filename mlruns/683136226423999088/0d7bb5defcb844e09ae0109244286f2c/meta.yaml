@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/0d7bb5defcb844e09ae0109244286f2c/artifacts
+deleted_time: 1724572363868
+end_time: 1724409004009
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: deleted
+run_id: 0d7bb5defcb844e09ae0109244286f2c
+run_name: unique-cat-21
+run_uuid: 0d7bb5defcb844e09ae0109244286f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724399944752
+status: 3
+tags: []
+user_id: adrien

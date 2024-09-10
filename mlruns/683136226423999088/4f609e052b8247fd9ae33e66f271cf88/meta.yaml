@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/4f609e052b8247fd9ae33e66f271cf88/artifacts
+deleted_time: 1724940239480
+end_time: 1724576445370
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: deleted
+run_id: 4f609e052b8247fd9ae33e66f271cf88
+run_name: calm-horse-162
+run_uuid: 4f609e052b8247fd9ae33e66f271cf88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724574915542
+status: 3
+tags: []
+user_id: adrien

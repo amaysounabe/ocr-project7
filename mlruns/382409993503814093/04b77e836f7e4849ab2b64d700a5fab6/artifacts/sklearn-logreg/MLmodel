@@ -1,0 +1,29 @@
+artifact_path: sklearn-logreg
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.15.1
+model_size_bytes: 9992
+model_uuid: 86fb49537cd64013882731aa664fe5a9
+run_id: 04b77e836f7e4849ab2b64d700a5fab6
+saved_input_example_info:
+  artifact_path: input_example.json
+  format: tf-serving
+  serving_input_path: serving_input_payload.json
+  type: ndarray
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 278]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-08-22 21:00:02.625187'

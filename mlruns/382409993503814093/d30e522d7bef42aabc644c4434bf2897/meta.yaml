@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/d30e522d7bef42aabc644c4434bf2897/artifacts
+deleted_time: 1724940235356
+end_time: 1724572569433
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: d30e522d7bef42aabc644c4434bf2897
+run_name: wistful-croc-249
+run_uuid: d30e522d7bef42aabc644c4434bf2897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724572373953
+status: 3
+tags: []
+user_id: adrien

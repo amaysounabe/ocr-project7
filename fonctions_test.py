@@ -25,7 +25,7 @@ def test_score_metier():
     fn_coeff = 10
     score = score_metier(y_test, y_pred, fp_coeff, fn_coeff)
     assert isinstance(score, float)
-    assert 0 <= score <= 1
+    assert 0 <= score
 
 # Fonction pour tester mlflow_run_model
 def test_mlflow_run_model():

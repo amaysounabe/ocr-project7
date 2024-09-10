@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/1dc757c92eb7416ab42a565030e9339f/artifacts
+end_time: 1725040182215
+entry_point_name: ''
+experiment_id: '881248795775057967'
+lifecycle_stage: active
+run_id: 1dc757c92eb7416ab42a565030e9339f
+run_name: wistful-hawk-240
+run_uuid: 1dc757c92eb7416ab42a565030e9339f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725038891392
+status: 3
+tags: []
+user_id: adrien

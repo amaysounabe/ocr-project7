@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/eba099a009274bdfa2037d56771d2621/artifacts
+deleted_time: 1724940239479
+end_time: 1724578443125
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: deleted
+run_id: eba099a009274bdfa2037d56771d2621
+run_name: sedate-owl-555
+run_uuid: eba099a009274bdfa2037d56771d2621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724576445380
+status: 3
+tags: []
+user_id: adrien

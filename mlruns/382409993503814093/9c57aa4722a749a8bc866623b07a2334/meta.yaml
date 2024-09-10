@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/9c57aa4722a749a8bc866623b07a2334/artifacts
+deleted_time: 1724360433207
+end_time: 1724360385567
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: 9c57aa4722a749a8bc866623b07a2334
+run_name: adaptable-croc-111
+run_uuid: 9c57aa4722a749a8bc866623b07a2334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724360383960
+status: 3
+tags: []
+user_id: adrien

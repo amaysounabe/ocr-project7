@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/c20f12611903467187c4e141dea61c0e/artifacts
+end_time: 1724941768914
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: active
+run_id: c20f12611903467187c4e141dea61c0e
+run_name: rumbling-moose-841
+run_uuid: c20f12611903467187c4e141dea61c0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724941745238
+status: 3
+tags: []
+user_id: adrien

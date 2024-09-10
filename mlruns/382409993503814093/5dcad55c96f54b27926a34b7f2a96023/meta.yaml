@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/5dcad55c96f54b27926a34b7f2a96023/artifacts
+deleted_time: 1724360433209
+end_time: 1724360189587
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: 5dcad55c96f54b27926a34b7f2a96023
+run_name: chill-fowl-519
+run_uuid: 5dcad55c96f54b27926a34b7f2a96023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724360186486
+status: 3
+tags: []
+user_id: adrien

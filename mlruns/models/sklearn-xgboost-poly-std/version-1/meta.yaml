@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725042490914
+current_stage: None
+description: null
+last_updated_timestamp: 1725042490914
+name: sklearn-xgboost-poly-std
+run_id: 1031d8140047422d84394cef71496187
+run_link: null
+source: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/1031d8140047422d84394cef71496187/artifacts/sklearn-xgb-poly-std
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/1031d8140047422d84394cef71496187/artifacts/sklearn-xgb-poly-std
+user_id: null
+version: 1

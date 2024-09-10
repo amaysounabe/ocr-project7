@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/f26514913b584350a8d3efc895b3db27/artifacts
+deleted_time: 1724940235356
+end_time: 1724572669180
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: f26514913b584350a8d3efc895b3db27
+run_name: kindly-turtle-291
+run_uuid: f26514913b584350a8d3efc895b3db27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724572648365
+status: 3
+tags: []
+user_id: adrien

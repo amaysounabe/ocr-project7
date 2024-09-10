@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725043786331
+current_stage: None
+description: null
+last_updated_timestamp: 1725043786331
+name: sklearn-xgboost-poly-mms
+run_id: 08c0bb481d6b492da606e3a61980475a
+run_link: null
+source: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/08c0bb481d6b492da606e3a61980475a/artifacts/sklearn-xgb-poly-mms
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/08c0bb481d6b492da606e3a61980475a/artifacts/sklearn-xgb-poly-mms
+user_id: null
+version: 1

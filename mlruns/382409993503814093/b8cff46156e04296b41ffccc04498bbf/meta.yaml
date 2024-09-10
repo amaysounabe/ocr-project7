@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/b8cff46156e04296b41ffccc04498bbf/artifacts
+deleted_time: 1724399024721
+end_time: null
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: b8cff46156e04296b41ffccc04498bbf
+run_name: able-yak-930
+run_uuid: b8cff46156e04296b41ffccc04498bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724397742279
+status: 1
+tags: []
+user_id: adrien

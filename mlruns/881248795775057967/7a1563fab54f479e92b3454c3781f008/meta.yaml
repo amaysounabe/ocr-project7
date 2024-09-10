@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/7a1563fab54f479e92b3454c3781f008/artifacts
+deleted_time: 1724940244224
+end_time: 1724579819436
+entry_point_name: ''
+experiment_id: '881248795775057967'
+lifecycle_stage: deleted
+run_id: 7a1563fab54f479e92b3454c3781f008
+run_name: puzzled-roo-755
+run_uuid: 7a1563fab54f479e92b3454c3781f008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724579672071
+status: 3
+tags: []
+user_id: adrien

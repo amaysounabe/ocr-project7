@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1724953488591
+current_stage: None
+description: null
+last_updated_timestamp: 1724953488591
+name: sklearn-random-forest-original-std
+run_id: 8dad021488ff49f2a4576d5a2483ba9a
+run_link: null
+source: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/8dad021488ff49f2a4576d5a2483ba9a/artifacts/sklearn-rfc-original-std
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/8dad021488ff49f2a4576d5a2483ba9a/artifacts/sklearn-rfc-original-std
+user_id: null
+version: 1

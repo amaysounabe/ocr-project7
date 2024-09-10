@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/2b34496e21f947bba73bb8495b8cfff9/artifacts
+end_time: 1725032993577
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: active
+run_id: 2b34496e21f947bba73bb8495b8cfff9
+run_name: invincible-sponge-8
+run_uuid: 2b34496e21f947bba73bb8495b8cfff9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725028397572
+status: 3
+tags: []
+user_id: adrien

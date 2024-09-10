@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725038891329
+current_stage: None
+description: null
+last_updated_timestamp: 1725038891329
+name: sklearn-xgboost-original-mms
+run_id: a7366b8b917b4779baad06719f499be2
+run_link: null
+source: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/a7366b8b917b4779baad06719f499be2/artifacts/sklearn-xgb-original-mms
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/a7366b8b917b4779baad06719f499be2/artifacts/sklearn-xgb-original-mms
+user_id: null
+version: 1

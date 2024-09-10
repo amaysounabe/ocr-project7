@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/09c451075d4a4707b3157aad3fd8d2e1/artifacts
+deleted_time: 1724940244222
+end_time: 1724793428033
+entry_point_name: ''
+experiment_id: '881248795775057967'
+lifecycle_stage: deleted
+run_id: 09c451075d4a4707b3157aad3fd8d2e1
+run_name: learned-seal-563
+run_uuid: 09c451075d4a4707b3157aad3fd8d2e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724793227737
+status: 3
+tags: []
+user_id: adrien

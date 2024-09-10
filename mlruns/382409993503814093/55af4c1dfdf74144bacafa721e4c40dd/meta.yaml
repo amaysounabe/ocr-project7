@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/55af4c1dfdf74144bacafa721e4c40dd/artifacts
+deleted_time: 1724397645688
+end_time: null
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: 55af4c1dfdf74144bacafa721e4c40dd
+run_name: learned-koi-399
+run_uuid: 55af4c1dfdf74144bacafa721e4c40dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724363077225
+status: 1
+tags: []
+user_id: adrien

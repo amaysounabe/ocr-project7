@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/2255628085aa41ae94ed2ce5f99d7ac6/artifacts
+deleted_time: 1724360433208
+end_time: 1724360192106
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: 2255628085aa41ae94ed2ce5f99d7ac6
+run_name: sincere-turtle-434
+run_uuid: 2255628085aa41ae94ed2ce5f99d7ac6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724360190856
+status: 3
+tags: []
+user_id: adrien

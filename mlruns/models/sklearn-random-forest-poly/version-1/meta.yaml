@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1724963459862
+current_stage: None
+description: null
+last_updated_timestamp: 1724963459862
+name: sklearn-random-forest-poly
+run_id: 0a64974ae7da400bad8a4a8f8697dbd2
+run_link: null
+source: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/0a64974ae7da400bad8a4a8f8697dbd2/artifacts/sklearn-rfc-poly
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/0a64974ae7da400bad8a4a8f8697dbd2/artifacts/sklearn-rfc-poly
+user_id: null
+version: 1

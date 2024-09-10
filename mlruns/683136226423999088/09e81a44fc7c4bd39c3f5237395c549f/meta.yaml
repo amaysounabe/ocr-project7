@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/09e81a44fc7c4bd39c3f5237395c549f/artifacts
+deleted_time: 1724940239480
+end_time: 1724574915530
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: deleted
+run_id: 09e81a44fc7c4bd39c3f5237395c549f
+run_name: marvelous-bass-739
+run_uuid: 09e81a44fc7c4bd39c3f5237395c549f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724572912199
+status: 3
+tags: []
+user_id: adrien

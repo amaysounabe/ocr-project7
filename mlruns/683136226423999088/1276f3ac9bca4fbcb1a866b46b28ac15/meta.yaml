@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/1276f3ac9bca4fbcb1a866b46b28ac15/artifacts
+deleted_time: 1724424186406
+end_time: null
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: deleted
+run_id: 1276f3ac9bca4fbcb1a866b46b28ac15
+run_name: bedecked-kite-600
+run_uuid: 1276f3ac9bca4fbcb1a866b46b28ac15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724418579182
+status: 1
+tags: []
+user_id: adrien

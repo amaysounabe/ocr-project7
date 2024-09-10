@@ -1,0 +1,6 @@
+artifact_location: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967
+creation_time: 1724578480069
+experiment_id: '881248795775057967'
+last_update_time: 1724578480069
+lifecycle_stage: active
+name: XGBOOST Classifier

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725036337074
+current_stage: None
+description: null
+last_updated_timestamp: 1725036337074
+name: sklearn-xgboost-original-std
+run_id: 24445318c65047cd91a3bd792b4041d7
+run_link: null
+source: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/24445318c65047cd91a3bd792b4041d7/artifacts/sklearn-xgb-original-std
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/projets/projet7/mlruns/881248795775057967/24445318c65047cd91a3bd792b4041d7/artifacts/sklearn-xgb-original-std
+user_id: null
+version: 1

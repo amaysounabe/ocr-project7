@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/0a64974ae7da400bad8a4a8f8697dbd2/artifacts
+end_time: 1724963461582
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: active
+run_id: 0a64974ae7da400bad8a4a8f8697dbd2
+run_name: brawny-snake-242
+run_uuid: 0a64974ae7da400bad8a4a8f8697dbd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724959119290
+status: 3
+tags: []
+user_id: adrien

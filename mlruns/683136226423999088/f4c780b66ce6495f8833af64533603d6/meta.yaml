@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/f4c780b66ce6495f8833af64533603d6/artifacts
+deleted_time: 1725028367299
+end_time: 1725028348110
+entry_point_name: ''
+experiment_id: '683136226423999088'
+lifecycle_stage: deleted
+run_id: f4c780b66ce6495f8833af64533603d6
+run_name: nebulous-owl-387
+run_uuid: f4c780b66ce6495f8833af64533603d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725028344371
+status: 4
+tags: []
+user_id: adrien

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1724958447478
+current_stage: None
+description: null
+last_updated_timestamp: 1724958447478
+name: sklearn-random-forest-original-mms
+run_id: 8a5395b3bbdb49d5ac6133acb3bc8a7e
+run_link: null
+source: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/8a5395b3bbdb49d5ac6133acb3bc8a7e/artifacts/sklearn-rfc-original-mms
+status: READY
+status_message: null
+storage_location: file:///home/adrien/Documents/jupyter/projet7/mlruns/683136226423999088/8a5395b3bbdb49d5ac6133acb3bc8a7e/artifacts/sklearn-rfc-original-mms
+user_id: null
+version: 1

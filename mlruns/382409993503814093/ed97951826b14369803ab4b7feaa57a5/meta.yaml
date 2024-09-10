@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/ed97951826b14369803ab4b7feaa57a5/artifacts
+deleted_time: 1724360433200
+end_time: 1724360406155
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: ed97951826b14369803ab4b7feaa57a5
+run_name: industrious-snail-83
+run_uuid: ed97951826b14369803ab4b7feaa57a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724360404946
+status: 3
+tags: []
+user_id: adrien

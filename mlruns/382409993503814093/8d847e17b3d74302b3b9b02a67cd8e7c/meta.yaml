@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/8d847e17b3d74302b3b9b02a67cd8e7c/artifacts
+end_time: 1724941087217
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: active
+run_id: 8d847e17b3d74302b3b9b02a67cd8e7c
+run_name: likeable-wren-912
+run_uuid: 8d847e17b3d74302b3b9b02a67cd8e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724941028615
+status: 3
+tags: []
+user_id: adrien

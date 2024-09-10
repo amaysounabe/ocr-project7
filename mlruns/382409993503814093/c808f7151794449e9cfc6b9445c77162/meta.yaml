@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/382409993503814093/c808f7151794449e9cfc6b9445c77162/artifacts
+deleted_time: 1724360433204
+end_time: 1724360404941
+entry_point_name: ''
+experiment_id: '382409993503814093'
+lifecycle_stage: deleted
+run_id: c808f7151794449e9cfc6b9445c77162
+run_name: thundering-swan-579
+run_uuid: c808f7151794449e9cfc6b9445c77162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724360403718
+status: 3
+tags: []
+user_id: adrien
