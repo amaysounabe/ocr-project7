@@ -2,7 +2,7 @@ import pytest
 import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
-from dashboard_fonctions import *
+from dashboard_fonctions import get_client_data, get_client_infos, predict
 
 # création de données factices
 @pytest.fixture
