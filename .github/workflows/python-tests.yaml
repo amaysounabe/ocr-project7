@@ -19,7 +19,7 @@ jobs:
         python-version: '3.12'
     
     - name: Create a virtual environnement
-    run: |
+      run: |
         python -m venv venv
         source venv/bin/activate
         
