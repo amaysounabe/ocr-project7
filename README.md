@@ -11,7 +11,10 @@
 La société **Prêt à dépenser** propose des crédits à la consommation pour des 
 personnes ayant peu ou pas d'historiques de prêt. <br>
 - La page OpenClassRooms du projet est disponible [**ici**](https://openclassrooms.com/fr/paths/793/projects/1504)
-- Les données utilisées au cours de ce projet sont disponibles [**ici**](https://www.kaggle.com/c/home-credit-default-risk/data) ou peuvent être téléchargées via la commande suivante
+- Les données utilisées au cours de ce projet sont disponibles 
+    [**ici**](https://www.kaggle.com/c/home-credit-default-risk/data) 
+    ou peuvent être téléchargées via les commandes suivantes
+    
     ```bash
     pip install kaggle
     kaggle competitions download -c home-credit-default-risk
@@ -27,9 +30,9 @@ personnes ayant peu ou pas d'historiques de prêt. <br>
 - **fonctions.py** &rarr; Fichier python comportant les fonctions utilisées dans le notebook
 - **dashboard_interface.py** &rarr; Fichier python comportant la configuration du dashboard **Streamlit**
 - **dashboard_fonctions.py** &rarr; Fichier python comportant les fonctions utilisées dans le dashboard
-- **fonctions_test.py** &rarr; Fichier python comportant les tests unitaires des fonctions contenues dans **fonctions.py**
 - **dashboard_fonctions_test.py** &rarr; Fichier comportant les tests unitaires des fonctions contenues dans **dashboard_fonctions.py**
 - **requirements.txt** &rarr; Fichier texte contenant les librairies python nécessaires
+- **pytest-requirements.txt** &rarr; Fichier texte contenant les librairies nécessaires aux tests unitaires
 
 ### Détails
 - Version de Python utilisée &rarr; **Python 3.12**
