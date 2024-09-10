@@ -1,12 +1,4 @@
-import pandas as pd
-import numpy as np
-from joblib import load
-import plotly.graph_objects as go
-import json
-import requests
-import math
-import io
-
+# Fonctions utilisées pour le dashboard Streamlit
 
 # fonction pour obtenir les données du client en fonction de l'ID
 def get_client_data(current_client_id, data):
