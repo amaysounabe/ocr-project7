@@ -1,4 +1,8 @@
 # Fonctions utilisées pour le dashboard Streamlit
+import numpy as np
+import pandas as pd
+import math
+import sklearn
 
 # fonction pour obtenir les données du client en fonction de l'ID
 def get_client_data(current_client_id, data):
