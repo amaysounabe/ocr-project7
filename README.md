@@ -30,6 +30,23 @@ personnes ayant peu ou pas d'historiques de prêt. <br>
 - **fonctions_test.py** &rarr; Fichier python comportant les tests unitaires des fonctions contenues dans **fonctions.py**
 - **dashboard_fonctions_test.py** &rarr; Fichier comportant les tests unitaires des fonctions contenues dans **dashboard_fonctions.py**
 - **requirements.txt** &rarr; Fichier texte contenant les librairies python nécessaires
+
+### Détails
+- Version de Python utilisée &rarr; **Python 3.12**
+- Liste des librairies utilisées
+    - **numpy**
+    - **pandas**
+    - **matplotlib**
+    - **seaborn**
+    - **scikit-learn**
+    - **xgboost**
+    - **mlflow**
+    - **shap**
+    - **joblib**
+    - **evidently**
+    - **pytest**
+    - **streamlit**
+
 ## Procédure
 - Analyse exploratoire des données (à l'aide d'un  moteur [**KAGGLE**](https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction/notebook)
 - Feature engineering
