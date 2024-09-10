@@ -48,7 +48,8 @@ personnes ayant peu ou pas d'historiques de prêt. <br>
     - **streamlit**
 
 ## Procédure
-- Analyse exploratoire des données (à l'aide d'un  moteur [**KAGGLE**](https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction/notebook)
+- Analyse exploratoire des données à l'aide d'un  moteur **KAGGLE** 
+    (disponible [**ici**](https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction/notebook))
 - Feature engineering
 - Entraînement des modèles de classification et tracking via **Mlflow**
 - Optimisation du meilleur modèle via un **score** adapté au contexte métier
