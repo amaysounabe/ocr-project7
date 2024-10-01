@@ -1,0 +1,5 @@
+Lien vers l'API en production : https://pred-a-depenser-api.onrender.com/
+
+Vous pouvez l'essayer comme suit : 
+https://pred-a-depenser-api.onrender.com/predict/100001
+https://pred-a-depenser-api.onrender.com/predict/100038
